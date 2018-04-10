@@ -8,3 +8,4 @@ npm install
 npm start
 ```
 
+# open the out.png under root folder to see the issue.
